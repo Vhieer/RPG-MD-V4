@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
+global.sig = 'https://www.instagram.com/reeeee1412/'
+global.syt = '-'
+global.sgh = 'https://github.com/Vhieer'
+global.sgc = '-'
+global.swa = 'wa.me/62859106985947'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
+global.pdana = 'r u sure ? '
 global.povo = '-'
-global.pgopay = '088279268363'
+global.pgopay = 'r u sure ? '
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = 'https://saweria.co/reeyaboat'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '62859106985947'
+global.nomorown = '62859106985947'
+global.namebot = '𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻'
+global.nameown = '𝓡𝓮𝓮𝔂𝓪'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['62859106985947', '𝓡𝓮𝓮𝔂𝓪', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm = '𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻 | By 𝓡𝓮𝓮𝔂𝓪' //Main Watermark
+global.wm2 = '𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻'
+global.wm3 = '𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻 | By 𝓡𝓮𝓮𝔂𝓪'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.titlebot = `𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻 | ʙʏ ${global.nameown}`
+global.author = '𝓡𝓮𝓮𝔂𝓪' 
+global.packname = '𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -119,11 +119,11 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.umurowner = '22'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
-global.pacarowner = 'Kepo amat sih;v'
+global.nameowner = '𝓡𝓮𝓮𝔂𝓪'
+global.umurowner = '999'
+global.asalowner = 'Isekai <3'
+global.nomorowner = 'wa.me/62859106985947'
+global.pacarowner = 'Sana Twice <3 '
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -371,8 +371,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `King Of Bear`
+global.stickpack = '𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻'
+global.stickauth = `𝓡𝓮𝓮𝔂𝓪`
 
 global.multiplier = 38 // The higher, The harder levelup
 
