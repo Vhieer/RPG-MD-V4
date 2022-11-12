@@ -190,7 +190,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
                         sourceUrl: 'https://www.youtube.com/watch?v=bBjIEByO5ts',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+                        description: `𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻`,
                         title: `💌 Ultah mu : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `⚘ ᴄʀᴇᴀᴛᴇ by 𝓡𝓮𝓮𝔂𝓪`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
